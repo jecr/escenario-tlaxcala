@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pun",
+				"puntajeP	statement"
+			],
+			[
+				"dic",
+				"dictClasificados	statement"
+			],
+			[
+				"punt",
+				"puntajeP	statement"
+			],
+			[
+				"cla",
+				"clasificados	statement"
+			],
+			[
+				"lista",
+				"listaUsuarios	statement"
+			],
+			[
+				"json",
+				"jsonPoliticos	statement"
+			],
+			[
+				"pala",
+				"palabrasTotales	statement"
+			],
+			[
+				"dicc",
+				"diccionarioPorcentajes	statement"
+			],
+			[
+				"pa",
+				"palabrasCuenta	statement"
+			],
+			[
+				"no",
+				"normalizados	statement"
+			],
+			[
+				"ar",
+				"archivoRuta	statement"
+			],
+			[
+				"get",
+				"getPercenteage	function"
+			],
+			[
+				"key",
+				"Key"
+			],
+			[
+				"lis",
+				"listaPorcentajes	statement"
+			],
+			[
+				"por",
+				"porcentajePalabra	statement"
+			],
+			[
+				"ya",
+				"yaRecuperados	statement"
+			],
+			[
+				"des",
+				"descripcion	statement"
+			],
+			[
+				"list",
+				"list_members	function"
+			],
+			[
+				"search",
+				"search_query	statement"
+			],
+			[
+				"arch",
+				"archivoAbierto	statement"
+			],
+			[
+				"curr",
+				"currentFile"
+			],
+			[
+				"curren",
+				"currentFile	statement"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"current",
+				"currentDate"
+			],
+			[
+				"cur",
+				"currentDate	statement"
+			],
+			[
+				"path",
+				"pathLength"
+			],
+			[
+				"pat",
+				"pathLength"
+			],
+			[
+				"diff",
+				"diffX"
+			],
+			[
+				"var",
+				"variableTemporal"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"data",
+				"dataLead"
+			],
+			[
+				"el",
+				"elVideo"
+			],
+			[
+				"data-",
+				"data-delay"
+			],
+			[
+				"bann",
+				"banner_temps"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"slide",
+				"slider0"
+			],
+			[
+				"pos",
+				"post_slug"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"slid",
+				"slider_home"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"ac",
+				"actual_page"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"u",
+				"url_foto"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"img",
+				"img_size1"
+			],
+			[
+				"sli",
+				"slider_home"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"da",
+				"datos"
+			],
+			[
+				"borde",
+				"border-box"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"err",
+				"errorString"
+			],
+			[
+				"alph",
+				"alpha_numeric"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"date",
+				"date_format"
+			],
+			[
+				"sl",
+				"slideToggle"
+			],
+			[
+				"t",
+				"text-top"
+			],
+			[
+				"cont",
+				"cont_preg"
+			],
+			[
+				"resul",
+				"resultados"
+			],
+			[
+				"pregun",
+				"preguntas"
+			],
+			[
+				"mysql_fiel",
+				"mysql_field_name"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"bore",
+				"border-box"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"RE",
+				"RenaultLifeB"
+			],
+			[
+				"RFE",
+				"RenaultLifeL"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"fuen",
+				"fuente2"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev"
+	],
+	"file_history":
+	[
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/clasifica_csv.py",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/hnc-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/hnc-clasificados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/clasifica.py",
+		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev/prod/index.php",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/resultado",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/hnc-clasificados_backup.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/log",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/resultados_noestricta.csv",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/resultados_estricta.csv",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/result",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/hnc-recuperados_backup.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/hoy_no_circula_Mar31-Apr02-usuarios.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part5-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part4-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part3-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part2-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part5.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part1-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part1.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/classify_me.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/Uber/Preparación/Depuración/OUTPUT/descripciones_analisis/descripciones_a_clasificar.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/Uber/Preparación/Depuración/clasificacion_usuarios/indexes/index_POLITICOs.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part3.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part4.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/part2.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/politicos-historico-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/medios-historico-recuperados.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/frecuencia.py",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/probabilidad-politico.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Mar31-Apr02-usuarios.csv",
+		"/C/Users/Jorge/Desktop/no_clasif.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May04-May06-usuarios.csv",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/probabilidad-medio.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/medios-historico-frecuencia.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/medios-historico.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/medios",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/politicos-historico-frecuencia.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/recupera_descripcion.py",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/politicos-historico.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May062016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May052016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May042016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May04-May06-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May062016-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May052016-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_2/hoy_no_circula_May042016-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Mar312016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Apr022016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Apr012016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Mar31-Apr02-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Mar312016-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Apr022016-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Apr012016-gephi.csv",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/politicos_desaparecidos.txt",
+		"/C/Users/Jorge/Desktop/EBOOK Tristania/Tristania - Andres Acosta, Marco Chamorro, ilustracion.epub",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/data.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/test",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/frecuency.py",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/listas_usuario.py",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/noticias.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/output",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/gaming.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/recover.py",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/medios-historico.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/medios-historico-recuperados.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/recupera_descripcion.py",
+		"/C/Users/Jorge/Desktop/axtel.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_Apr022016_filtro.json",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/clasif/hoy_no_circula_Apr022016_clas.json",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_Apr022016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_Apr012016-usuarios.csv",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/hoy_no_circula/terminos.txt",
+		"/C/Users/Jorge/Desktop/panama_papers/convert_txt_to_gephi.py",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/convert_to_gephi.py",
+		"/C/Users/Jorge/Desktop/panama_papers/panama_papers_May012016.txt",
+		"/C/Users/Jorge/Desktop/panama_papers/panama_papers_May012016-gephi.csv",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/count.py",
+		"/C/Users/Jorge/Desktop/panama_papers/panama_papers_May052016.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/0.html",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Mar31-Abr02-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/Periodo_1/hoy_no_circula_Mar31-Abr02-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro (1)/hoy_no_circula_Apr012016_filtro.json",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_May062016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_May052016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_May042016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_May032016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_May022016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Mar312016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr052016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr042016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr012016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr022016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_May032016-gephi.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_May032016-usuarios.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_Apr042016-gephi.csv",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/audios_oaxaca/audios_oaxaca_May132016.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/test.py",
+		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/debate_puebla/debate_puebla_May132016.txt-clean.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/debate_puebla/debate_puebla_May132016.txt",
+		"/C/Users/Jorge/Desktop/retweets.csv",
+		"/C/Users/Jorge/Desktop/result.csv",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/clasif/hoy_no_circula_May032016_clas.json",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/hoy_no_circula/hoy_no_circula_May112016.txt",
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/hoy_no_circula/hoy_no_circula_Apr232016.txt",
+		"/C/Users/Jorge/AppData/Local/Temp/menc_hoy_no_circula_Apr232016_filtro.json",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_May032016_out.json",
+		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/nuevo_sandero.php",
+		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/safrane.php",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/hoy_no_circula/hoy_no_circula_May052016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/hoy_no_circula/hoy_no_circula_May032016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/Uber/Visualización/D3/galway/grafo-enlaces-multiples.html",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/dict_construct.py",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May012016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May022016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May032016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_Apr302016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May012016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May022016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May032016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May052016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May042016.txt",
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/Splitting/splittin_by_date.py"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"C:\\Users\\Jorge\\Google Drive\\MADIC\\Tesis\\Eventos\\HoyNoCircula\\clasif",
+			"C:\\Users\\Jorge\\Google Drive\\MADIC\\Tesis\\Eventos\\HoyNoCircula\\filtro",
+			"C:\\Users\\Jorge\\Google Drive\\MADIC\\Tesis\\Eventos\\HoyNoCircula\\clasif",
+			"C:\\Users\\Jorge\\Documents\\GitHub\\rp-responsive\\dev\\scss",
+			"<current file>",
+			"C:\\Users\\Jorge\\Documents\\GitHub\\rp-responsive\\dev\\scss",
+			"C:\\Users\\Jorge\\Documents\\GitHub\\rp-responsive\\dev\\prod",
+			"C:\\Users\\Jorge\\Documents\\GitHub\\rp-responsive\\dev\\scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",politico",
+			",medio",
+			"\"medio\"",
+			"15",
+			"\"medio\"",
+			"\"politico\"",
+			"\"medio\"",
+			"\"politico\"",
+			"150",
+			"medio\"",
+			"\"politico\"",
+			"\"medio\"",
+			"50",
+			"\"medio\"",
+			"10",
+			"\"medio\"",
+			"\"medio\", ",
+			",medio",
+			"15",
+			"\"description\":",
+			"\"clasification\":",
+			"...",
+			"Usuario no encontrado",
+			"...",
+			"Descripción vacía",
+			"consultas restantes para recuperación de descripciones",
+			"Excepción: Límite de solicitudes alcanzado",
+			"Asignación de claves...",
+			",politico",
+			",medio",
+			"50",
+			",medio",
+			",politico",
+			"25",
+			",politico",
+			",medio",
+			"\"medio\"",
+			"medio",
+			",medios",
+			"\"medio\"",
+			"\"perro\"",
+			"25",
+			"\"perro\"",
+			",medio",
+			",politico",
+			"25",
+			",medio",
+			",politico",
+			"   \"clasification\":",
+			",politico",
+			"\"politico\"",
+			",politico",
+			"1",
+			",politico",
+			"\"politico\",",
+			"\"politico\", ",
+			",medio",
+			"Descripción vacía",
+			"Recuperando: ",
+			"medio",
+			"'medio'",
+			"'politico'",
+			"'medio'",
+			"'politico'",
+			"politico",
+			"},",
+			"description",
+			"}, \n    {",
+			"}\n",
+			"\"description\": ",
+			"description\":",
+			"\"description\":",
+			"'politico'",
+			"'medio'",
+			"': '",
+			"20",
+			"': ",
+			"'medio'",
+			"jesus_zambranog",
+			"': ",
+			"lizclapes",
+			"'medio'",
+			"'politico',",
+			"politico",
+			"'ciudadano'",
+			"'medio'",
+			"'politico'",
+			"': '",
+			"': ",
+			"1",
+			"arwensuerte",
+			"': '",
+			"': ",
+			"aola",
+			"\"description\":",
+			"\"description\": ",
+			"description: ",
+			"\",\"",
+			", ",
+			"}",
+			"{",
+			",",
+			"'medio",
+			"medio",
+			"': ",
+			"victorjorrin",
+			"': ",
+			"'medio'",
+			"'politico'",
+			"politico",
+			" / float",
+			"M",
+			"_karenaguilar_",
+			"Medio",
+			"': ",
+			"usuario",
+			"stem",
+			".encode('UTF-8')",
+			"Politicos",
+			"listado",
+			"Medios",
+			"Politicos",
+			"archivoJson",
+			"archivo",
+			"Archivo",
+			"archivo",
+			",3",
+			",2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&Uacute;",
+			"&Oacute;",
+			"&Iacute;",
+			"&Eacute;",
+			"&Aacute;",
+			"&uacute;",
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"$RenaultLifeCyL",
+			"$RenaultLifeCyR",
+			"$RenaultLifeR",
+			"$icons"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "escenario-tlaxcala.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

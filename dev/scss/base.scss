@@ -1,0 +1,31 @@
+@import "normalize";
+
+/**
+* CLEARFIX
+*/
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
+
+@import "fonts";
+@import "structure";
+
+/* VERSIÓN TABLET */
+@media screen and (min-width: 760px) {
+	@import "tablet";
+}
+
+/* VERSIÓN ESCRITORIO */
+@media screen and (min-width: 960px) {
+	@import "desktop";
+}
