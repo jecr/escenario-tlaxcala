@@ -1,0 +1,64 @@
+/** ===============
+	COLORES
+===================*/
+$main-blue: #2A2E7D;
+$light-blue: #00A5D6;
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+.wrap {
+	width: 730px;
+}
+
+.main-menu {
+	margin: 19px auto;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+	box-shadow: 0 0 8px #333;
+	position: relative;
+	z-index: 1;
+	ul {
+		background: $main-blue;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		li {
+			display: inline-block;
+			width: 14.28%;
+			text-align: center;
+			transition: color .3s;
+			a {
+				display: inline-block;
+				width: 100%;
+				height: 100%;
+				box-sizing: border-box;
+				padding: 10px;
+			}
+			&:hover {
+				color: $light-blue
+			}
+		}
+	}
+}
+
+.logo-back {
+	background: $main-blue;
+	width: 115px; height: 70px;
+	box-shadow: 0 0 8px #333;
+	border-radius: 50%;
+	position: absolute;
+	top: (-13px); left: 308px;
+	z-index: -1;
+}
+
+.logo-et {
+	background: url(../img/logo_et.svg) no-repeat center;
+	background-size: 90% 90%;
+	a {
+		text-indent: -99999px;
+	}
+}

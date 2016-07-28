@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"li",
+				"light-blue"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"ma",
+				"main-blue"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
 				"pun",
 				"puntajeP	statement"
 			],
@@ -172,10 +208,6 @@
 				"margin"
 			],
 			[
-				"ma",
-				"margin-left"
-			],
-			[
 				"al",
 				"text-align"
 			],
@@ -186,10 +218,6 @@
 			[
 				"max",
 				"max-width"
-			],
-			[
-				"bor",
-				"border-box"
 			],
 			[
 				"te",
@@ -216,28 +244,12 @@
 				"slider_home"
 			],
 			[
-				"tex",
-				"text-align"
-			],
-			[
 				"pad",
 				"padding"
 			],
 			[
-				"bord",
-				"border-box"
-			],
-			[
 				"ba",
 				"background"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"back",
-				"background-size"
 			],
 			[
 				"bac",
@@ -367,6 +379,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "dev/prod/index.php",
+			"settings":
+			{
+				"buffer_size": 1070,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/scss/_structure.scss",
+			"settings":
+			{
+				"buffer_size": 988,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dev/scss/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -405,7 +441,9 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev"
+		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev",
+		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev/prod",
+		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev/scss"
 	],
 	"file_history":
 	[
@@ -562,6 +600,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"z-index",
+			"90%",
+			"<li>",
+			";\n",
 			",politico",
 			",medio",
 			"\"medio\"",
@@ -685,11 +727,7 @@
 			"Medios",
 			"Politicos",
 			"archivoJson",
-			"archivo",
-			"Archivo",
-			"archivo",
-			",3",
-			",2"
+			"archivo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -721,8 +759,95 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "dev/prod/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dev/scss/_structure.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 550.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dev/scss/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -803,7 +928,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 370.0,
+	"side_bar_width": 252.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
