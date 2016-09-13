@@ -21,11 +21,21 @@
 @import "structure";
 
 /* VERSIÓN TABLET */
-@media screen and (min-width: 760px) {
-	@import "tablet";
+@media screen and (min-width: 480px) {
+	@import "break1";
 }
 
 /* VERSIÓN ESCRITORIO */
-@media screen and (min-width: 960px) {
-	@import "desktop";
+@media screen and (min-width: 600px) {
+	@import "break2";
+}
+
+/* VERSIÓN ESCRITORIO */
+@media screen and (min-width: 800px) {
+	@import "break3";
+}
+
+/* VERSIÓN ESCRITORIO */
+@media screen and (min-width: 1024px) {
+	@import "break4";
 }

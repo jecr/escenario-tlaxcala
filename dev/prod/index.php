@@ -17,16 +17,20 @@
 
 <div class="main-container">
 	<div class="wrap main-menu">
-		<ul>
-			<li><a href="#columnas">COLUMNAS</a></li><li>
-			<a href="#radio">RADIO</a></li><li>
-			<a href="#noticias">NOTICIAS</a></li><li class="logo-et">
-			<a href="#inicio">INICIO</a></li><li>
-			<a href="#nosotros">NOSOTROS</a></li><li>
-			<a href="#acciones">ACCIONES</a></li><li>
-			<a href="#galería">GALERÍA</a></li>
+		<div class="logo-over"><a href=""><img src="img/logo-menu.svg"></a></div>
+		<ul class="menu-container">
+			<li><a href="">MENÚ</a></li><li></li><li>
+			<a href="">SÍGUENOS</a></li><li class="navigation">
+				<ul>
+					<li><a href="#columnas">COLUMNAS</a></li><li>
+					<a href="#radio">RADIO</a></li><li>
+					<a href="#noticias">NOTICIAS</a><li>
+					<a href="#nosotros">NOSOTROS</a></li><li>
+					<a href="#acciones">ACCIONES</a></li><li>
+					<a href="#galería">GALERÍA</a></li>
+				</ul>
+			</li>
 		</ul>
-		<div class="logo-back"></div>
 	</div>
 </div>
 	
