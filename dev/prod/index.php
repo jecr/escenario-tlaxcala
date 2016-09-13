@@ -16,20 +16,29 @@
 <body>
 
 <div class="main-container">
-	<div class="wrap main-menu">
+	<div class="wrap mobile-menu">
 		<div class="logo-over"><a href=""><img src="img/logo-menu.svg"></a></div>
 		<ul class="menu-container">
 			<li><a href="">MENÚ</a></li><li></li><li>
-			<a href="">SÍGUENOS</a></li><li class="navigation">
-				<ul>
-					<li><a href="#columnas">COLUMNAS</a></li><li>
-					<a href="#radio">RADIO</a></li><li>
-					<a href="#noticias">NOTICIAS</a><li>
-					<a href="#nosotros">NOSOTROS</a></li><li>
-					<a href="#acciones">ACCIONES</a></li><li>
-					<a href="#galería">GALERÍA</a></li>
-				</ul>
-			</li>
+			<a href="">SÍGUENOS</a></li>
+		</ul>
+		<ul class="navigation">
+			<li><a href="#columnas">COLUMNAS</a></li><li>
+			<a href="#radio">RADIO</a></li><li>
+			<a href="#noticias">NOTICIAS</a><li>
+			<a href="#nosotros">NOSOTROS</a></li><li>
+			<a href="#acciones">ACCIONES</a></li><li>
+			<a href="#galería">GALERÍA</a></li>
+		</ul>
+		<ul class="socials">
+			<li><a href=""><div class="s1"></div></a></li><li>
+				<a href=""><div class="s2"></div></a></li><li>
+				<a href=""><div class="s3"></div></a></li><li>
+				<a href=""><div class="s4"></div></a></li><li>
+				<a href=""><div class="s5"></div></a></li><li>
+				<a href=""><div class="s6"></div></a></li><li>
+				<a href=""><div class="s7"></div></a></li><li>
+				<a href=""><div class="s8"></div></a></li>
 		</ul>
 	</div>
 </div>
