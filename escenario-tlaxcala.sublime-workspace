@@ -4,20 +4,48 @@
 		"selected_items":
 		[
 			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"light",
+				"light-blue"
+			],
+			[
 				"li",
 				"light-blue"
 			],
 			[
-				"tex",
-				"text-decoration"
-			],
-			[
 				"fo",
 				"font-style"
-			],
-			[
-				"bord",
-				"border-radius"
 			],
 			[
 				"ma",
@@ -26,10 +54,6 @@
 			[
 				"back",
 				"background"
-			],
-			[
-				"bor",
-				"border-radius"
 			],
 			[
 				"fon",
@@ -41,51 +65,51 @@
 			],
 			[
 				"pun",
-				"puntajeP	statement"
+				"puntajeP\tstatement"
 			],
 			[
 				"dic",
-				"dictClasificados	statement"
+				"dictClasificados\tstatement"
 			],
 			[
 				"punt",
-				"puntajeP	statement"
+				"puntajeP\tstatement"
 			],
 			[
 				"cla",
-				"clasificados	statement"
+				"clasificados\tstatement"
 			],
 			[
 				"lista",
-				"listaUsuarios	statement"
+				"listaUsuarios\tstatement"
 			],
 			[
 				"json",
-				"jsonPoliticos	statement"
+				"jsonPoliticos\tstatement"
 			],
 			[
 				"pala",
-				"palabrasTotales	statement"
+				"palabrasTotales\tstatement"
 			],
 			[
 				"dicc",
-				"diccionarioPorcentajes	statement"
+				"diccionarioPorcentajes\tstatement"
 			],
 			[
 				"pa",
-				"palabrasCuenta	statement"
+				"palabrasCuenta\tstatement"
 			],
 			[
 				"no",
-				"normalizados	statement"
+				"normalizados\tstatement"
 			],
 			[
 				"ar",
-				"archivoRuta	statement"
+				"archivoRuta\tstatement"
 			],
 			[
 				"get",
-				"getPercenteage	function"
+				"getPercenteage\tfunction"
 			],
 			[
 				"key",
@@ -93,31 +117,31 @@
 			],
 			[
 				"lis",
-				"listaPorcentajes	statement"
+				"listaPorcentajes\tstatement"
 			],
 			[
 				"por",
-				"porcentajePalabra	statement"
+				"porcentajePalabra\tstatement"
 			],
 			[
 				"ya",
-				"yaRecuperados	statement"
+				"yaRecuperados\tstatement"
 			],
 			[
 				"des",
-				"descripcion	statement"
+				"descripcion\tstatement"
 			],
 			[
 				"list",
-				"list_members	function"
+				"list_members\tfunction"
 			],
 			[
 				"search",
-				"search_query	statement"
+				"search_query\tstatement"
 			],
 			[
 				"arch",
-				"archivoAbierto	statement"
+				"archivoAbierto\tstatement"
 			],
 			[
 				"curr",
@@ -125,7 +149,7 @@
 			],
 			[
 				"curren",
-				"currentFile	statement"
+				"currentFile\tstatement"
 			],
 			[
 				"con",
@@ -137,7 +161,7 @@
 			],
 			[
 				"cur",
-				"currentDate	statement"
+				"currentDate\tstatement"
 			],
 			[
 				"path",
@@ -157,11 +181,11 @@
 			],
 			[
 				"ech",
-				"echo	echo \"…\""
+				"echo\techo \"…\""
 			],
 			[
 				"ec",
-				"echo	echo \"…\""
+				"echo\techo \"…\""
 			],
 			[
 				"data",
@@ -204,10 +228,6 @@
 				"slider_home"
 			],
 			[
-				"mar",
-				"margin"
-			],
-			[
 				"al",
 				"text-align"
 			],
@@ -233,7 +253,7 @@
 			],
 			[
 				"if",
-				"if	if …"
+				"if\tif …"
 			],
 			[
 				"img",
@@ -250,10 +270,6 @@
 			[
 				"ba",
 				"background"
-			],
-			[
-				"bac",
-				"background-size"
 			],
 			[
 				"b",
@@ -333,7 +349,7 @@
 			],
 			[
 				"for",
-				"foreach	foreach …"
+				"foreach\tforeach …"
 			],
 			[
 				"_",
@@ -379,30 +395,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "dev/prod/index.php",
-			"settings":
-			{
-				"buffer_size": 1070,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "dev/scss/_structure.scss",
-			"settings":
-			{
-				"buffer_size": 988,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "dev/scss/_fonts.scss",
-			"settings":
-			{
-				"buffer_size": 57,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -441,12 +433,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev",
-		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev/prod",
-		"/C/Users/Jorge/Documents/GitHub/escenario-tlaxcala/dev/scss"
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/javascript",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod/js",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss"
 	],
 	"file_history":
 	[
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod/index.php",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss/base.scss",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/javascript/actions.js",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss/_fonts.scss",
+		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod/js/jquery-1.11.3.min.js",
 		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/clasifica_csv.py",
 		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/hnc-recuperados.json",
 		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/Clasificacion/hnc-clasificados.json",
@@ -568,17 +568,11 @@
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May012016.txt",
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May022016.txt",
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May032016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_Apr302016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May012016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May022016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May032016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May052016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_May042016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/Splitting/splittin_by_date.py"
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_Apr302016.txt"
 	],
 	"find":
 	{
-		"height": 50.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -600,6 +594,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"00A6D7",
+			"div",
+			"none",
 			"z-index",
 			"90%",
 			"<li>",
@@ -724,10 +721,7 @@
 			".encode('UTF-8')",
 			"Politicos",
 			"listado",
-			"Medios",
-			"Politicos",
-			"archivoJson",
-			"archivo"
+			"Medios"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -759,95 +753,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "dev/prod/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1070,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								868,
-								868
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "dev/scss/_structure.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 988,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								505,
-								505
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 550.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "dev/scss/_fonts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 57,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -928,7 +835,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 252.0,
+	"side_bar_width": 228.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

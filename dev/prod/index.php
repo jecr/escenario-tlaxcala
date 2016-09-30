@@ -6,8 +6,6 @@
 	<title></title>
 	<link rel="icon" href="favicon.png" sizes="32x32" type="image/png">
 	<link rel="stylesheet" href="css/style.css">
-	<script src="js/jquery-1.11.3.min.js"></script>
-	<script src="js/actions.min.js"></script>
 	<!-- FONT AWESOME -->
 	<link href="extra/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -16,10 +14,10 @@
 <body>
 
 <div class="main-container">
-	<div class="wrap mobile-menu">
+	<nav class="wrap mobile-menu">
 		<div class="logo-over"><a href=""><img src="img/logo-menu.svg"></a></div>
 		<ul class="menu-container">
-			<li><a href="">MENÚ</a></li><li></li><li>
+			<li id="mob-nav"><a href="">MENÚ</a></li><li></li><li id="mob-soc">
 			<a href="">SÍGUENOS</a></li>
 		</ul>
 		<ul class="navigation">
@@ -40,8 +38,27 @@
 				<a href=""><div class="s7"></div></a></li><li>
 				<a href=""><div class="s8"></div></a></li>
 		</ul>
+	</nav>
+	<div class="wrap home-banner">
+		<img src="http://placehold.it/1024x318">
 	</div>
+	<section class="feat-section">
+		<div class="feat-title">
+			Columnas
+		</div>
+		<div class="cf">
+			<div class="snap-picture">
+				<img src="http://placehold.it/113x65">
+			</div>
+			<div class="snap-text">
+				<h3>Ficciones gatunas</h3>
+				<span>El arriero</span>
+			</div>
+		</div>
+	</section>
 </div>
 	
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/actions.min.js"></script>
 </body>
 </html>
