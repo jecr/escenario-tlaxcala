@@ -4,7 +4,16 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
-	<link rel="icon" href="favicon.png" sizes="32x32" type="image/png">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="favicon/manifest.json">
+	<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="favicon/favicon.ico">
+	<meta name="msapplication-config" content="favicon/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+
 	<link rel="stylesheet" href="css/style.css">
 	<!-- FONT AWESOME -->
 	<link href="extra/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -42,20 +51,64 @@
 	<div class="wrap home-banner">
 		<img src="http://placehold.it/1024x318">
 	</div>
-	<section class="feat-section">
-		<div class="feat-title">
-			Columnas
-		</div>
-		<div class="cf">
-			<div class="snap-picture">
-				<img src="http://placehold.it/113x65">
+
+	<div>
+		<section class="feat-section"> <!-- Featured entries section start -->
+			<div class="feat-title" style="background: #00A6D7;">
+				Columnas
 			</div>
-			<div class="snap-text">
-				<h3>Ficciones gatunas</h3>
-				<span>El arriero</span>
+
+			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
+			<div class="cf feat-entry"> <!-- Featured entry start -->
+				<div class="feat-picture">
+					<img src="http://placehold.it/113x65">
+				</div>
+				<div class="feat-text">
+					<h3>Ficciones gatunas</h3>
+					<span>El arriero</span>
+				</div>
+			</div> <!-- Featured entry end -->
+			<?php } ?>
+
+		</section> <!-- Featured entries section end -->
+		<section class="feat-section"> <!-- Featured entries section start -->
+			<div class="feat-title" style="background: #1066B0;">
+				Noticias
 			</div>
-		</div>
-	</section>
+
+			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
+			<div class="cf feat-entry"> <!-- Featured entry start -->
+				<div class="feat-picture">
+					<img src="http://placehold.it/113x65">
+				</div>
+				<div class="feat-text">
+					<h3>Ficciones gatunas</h3>
+					<span>El arriero</span>
+				</div>
+			</div> <!-- Featured entry end -->
+			<?php } ?>
+
+		</section> <!-- Featured entries section end -->
+		<section class="feat-section"> <!-- Featured entries section start -->
+			<div class="feat-title" style="background: #EF6B49;">
+				Acciones
+			</div>
+
+			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
+			<div class="cf feat-entry"> <!-- Featured entry start -->
+				<div class="feat-picture">
+					<img src="http://placehold.it/113x65">
+				</div>
+				<div class="feat-text">
+					<h3>Ficciones gatunas</h3>
+					<span>El arriero</span>
+				</div>
+			</div> <!-- Featured entry end -->
+			<?php } ?>
+
+		</section> <!-- Featured entries section end -->
+	</div>
+
 </div>
 	
 <script src="js/jquery-1.11.3.min.js"></script>

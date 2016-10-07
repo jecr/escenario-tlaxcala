@@ -133,30 +133,37 @@ img {
 	}
 }
 
+/** ===============
+	FEATURED
+===================*/
+
 .feat-section {
 	width: 90%;
 	margin: 10px auto 0 auto;
 }
 
+.feat-entry {
+	height: 65px
+}
+
 .feat-title {
 	text-transform: uppercase;
-	background: $light-blue;
 	color: white;
 	text-align: center;
 }
 
-.snap-picture, .snap-text {
+.feat-picture, .feat-text {
 	float: left;
 }
 
-.snap-picture {
+.feat-picture {
 	width: 35%;
 	img {
 		width: 100%;
 	}
 }
 
-.snap-text {
+.feat-text {
 	width: 65%;
 	h3 {
 		margin: 0;
