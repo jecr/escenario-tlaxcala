@@ -60,6 +60,7 @@ img {
 	top: -8px;
 	text-align: center;
 	img {
+		display: inline-block;
 		max-width: 115px;
 		min-width: 96px;
 	}
@@ -143,7 +144,9 @@ img {
 }
 
 .feat-entry {
-	height: 65px
+	height: 65px;
+	overflow: hidden;
+	margin-bottom: 5px;
 }
 
 .feat-title {
