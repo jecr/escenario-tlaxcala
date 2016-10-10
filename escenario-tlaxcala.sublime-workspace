@@ -4,12 +4,24 @@
 		"selected_items":
 		[
 			[
-				"bor",
-				"border-bottom"
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
 			],
 			[
 				"mar",
-				"margin-right"
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
 			],
 			[
 				"paddi",
@@ -48,16 +60,8 @@
 				"font-style"
 			],
 			[
-				"ma",
-				"main-blue"
-			],
-			[
 				"back",
 				"background"
-			],
-			[
-				"fon",
-				"font-weight"
 			],
 			[
 				"text",
@@ -244,10 +248,6 @@
 				"text-align"
 			],
 			[
-				"font",
-				"font-family"
-			],
-			[
 				"u",
 				"url_foto"
 			],
@@ -403,22 +403,27 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 588.0,
-		"last_filter": "Package Control: ",
+		"height": 215.0,
+		"last_filter": "Package Control: in",
 		"selected_items":
 		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 600.0
+		"width": 768.0
 	},
 	"console":
 	{
 		"height": 186.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
@@ -433,14 +438,17 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev",
-		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/javascript",
-		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod",
-		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod/js",
-		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss"
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss"
 	],
 	"file_history":
 	[
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/index.php",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_fonts.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break3.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_normalize.scss",
 		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod/index.php",
 		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
 		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss/base.scss",
@@ -563,16 +571,11 @@
 		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/safrane.php",
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/hoy_no_circula/hoy_no_circula_May052016.txt",
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/hoy_no_circula/hoy_no_circula_May032016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/Uber/Visualización/D3/galway/grafo-enlaces-multiples.html",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/dict_construct.py",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May012016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May022016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/debate_oaxaca/debate_oaxaca_May032016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/panama_papers/panama_papers_Apr302016.txt"
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/Uber/Visualización/D3/galway/grafo-enlaces-multiples.html"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{

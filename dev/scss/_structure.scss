@@ -3,6 +3,7 @@
 ===================*/
 $main-blue: #2A2E7D;
 $light-blue: #00A6D7;
+$dark-blue: #1F1F23;
 $lpurple: lighten(#483085, 50%);
 $lblue: lighten(#1C3664, 50%);
 $red: #C04B27;
@@ -27,6 +28,7 @@ a {
 body {
 	background: #EFEFF1;
 	min-width: 320px;
+	color: $dark-blue;
 }
 
 img {
@@ -138,6 +140,10 @@ img {
 	FEATURED
 ===================*/
 
+.featured {
+	margin-bottom: 15px;
+}
+
 .feat-section {
 	width: 90%;
 	margin: 10px auto 0 auto;
@@ -178,4 +184,41 @@ img {
 	span {
 		padding: 5px;
 	}
+}
+
+/** ===============
+	BANNER SUB-FEATURED
+===================*/
+.banner-home-inf {
+	overflow: hidden;
+	text-align: center;
+	margin-bottom: 15px;
+	img {
+		margin-left: -10%;
+		width: 120%;
+	}
+}
+
+/** ===============
+	CONTÁCTANOS
+===================*/
+.contactanos {
+	text-align: center;
+	span {
+		display: block;
+		color: $main-blue;
+		font-size: 1.7em;
+		font-weight: 700;
+	}
+	i {
+		color: $light-blue;
+		font-size: 3em;
+	}
+}
+
+/** ===============
+	CONTÁCTANOS
+===================*/
+.pie {
+	text-align: right;
 }

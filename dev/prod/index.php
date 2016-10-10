@@ -48,11 +48,12 @@
 				<a href=""><div class="s8"></div></a></li>
 		</ul>
 	</nav>
+
 	<div class="wrap home-banner">
 		<img src="http://placehold.it/1024x318">
 	</div>
 
-	<div>
+	<div class="featured">
 		<section class="feat-section"> <!-- Featured entries section start -->
 			<div class="feat-title" style="background: #00A6D7;">
 				Columnas
@@ -109,6 +110,18 @@
 		</section> <!-- Featured entries section end -->
 	</div>
 
+	<div class="banner-home-inf">
+		<img src="img/joven-tlaxcalteca.jpg">
+	</div>
+
+	<div class="contactanos">
+		<span>CONTÁCTANOS</span>
+		<i class="fa fa-angle-double-up" aria-hidden="true"></i>
+	</div>
+
+	<footer class="pie">
+		<small>2016 Escenario Tlaxcala&copy; Webmaster &amp; Co., todos los derechos reservados</small>
+	</footer>
 </div>
 	
 <script src="js/jquery-1.11.3.min.js"></script>
