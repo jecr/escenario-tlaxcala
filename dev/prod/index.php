@@ -62,11 +62,11 @@
 			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
 			<div class="cf feat-entry"> <!-- Featured entry start -->
 				<div class="feat-picture">
-					<img src="http://placehold.it/113x65">
+					<a href="#"><img src="http://placehold.it/113x65"></a>
 				</div>
 				<div class="feat-text">
-					<h3>Ficciones gatunas</h3>
-					<span>El arriero</span>
+					<h3><a href="#">Ficciones gatunas</a></h3>
+					<span><a href="#">El arriero</a></span>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>
@@ -80,11 +80,11 @@
 			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
 			<div class="cf feat-entry"> <!-- Featured entry start -->
 				<div class="feat-picture">
-					<img src="http://placehold.it/113x65">
+					<a href="#"><img src="http://placehold.it/113x65"></a>
 				</div>
 				<div class="feat-text">
-					<h3>Ficciones gatunas</h3>
-					<span>El arriero</span>
+					<h3><a href="#">Ficciones gatunas</a></h3>
+					<span><a href="#">El arriero</a></span>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>
@@ -98,11 +98,11 @@
 			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
 			<div class="cf feat-entry"> <!-- Featured entry start -->
 				<div class="feat-picture">
-					<img src="http://placehold.it/113x65">
+					<a href="#"><img src="http://placehold.it/113x65"></a>
 				</div>
 				<div class="feat-text">
-					<h3>Ficciones gatunas</h3>
-					<span>El arriero</span>
+					<h3><a href="#">Ficciones gatunas</a></h3>
+					<span><a href="#">El arriero</a></span>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>
