@@ -65,8 +65,13 @@
 					<a href="#"><img src="http://placehold.it/113x65"></a>
 				</div>
 				<div class="feat-text">
-					<h3><a href="#">Ficciones gatunas</a></h3>
-					<span><a href="#">El arriero</a></span>
+					<div class="feat-bot-border">
+						<h3><a href="#">Ficciones gatunas</a></h3>
+						<span><a href="#">El arriero</a></span>
+					</div>
+					<div class="feat-excerpt">
+						Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+					</div>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>
@@ -83,8 +88,13 @@
 					<a href="#"><img src="http://placehold.it/113x65"></a>
 				</div>
 				<div class="feat-text">
-					<h3><a href="#">Ficciones gatunas</a></h3>
-					<span><a href="#">El arriero</a></span>
+					<div class="feat-bot-border">
+						<h3><a href="#">Ficciones gatunas</a></h3>
+						<span><a href="#">El arriero</a></span>
+					</div>
+					<div class="feat-excerpt">
+						Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+					</div>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>
@@ -101,8 +111,13 @@
 					<a href="#"><img src="http://placehold.it/113x65"></a>
 				</div>
 				<div class="feat-text">
-					<h3><a href="#">Ficciones gatunas</a></h3>
-					<span><a href="#">El arriero</a></span>
+					<div class="feat-bot-border">
+						<h3><a href="#">Ficciones gatunas</a></h3>
+						<span><a href="#">El arriero</a></span>
+					</div>
+					<div class="feat-excerpt">
+						Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+					</div>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>

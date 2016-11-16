@@ -7,6 +7,7 @@ $dark-blue: #1F1F23;
 $lpurple: lighten(#483085, 50%);
 $lblue: lighten(#1C3664, 50%);
 $red: #C04B27;
+$green: #06562C;
 
 /** ===============
 	ESTILOS GENERALES
@@ -150,9 +151,22 @@ img {
 }
 
 .feat-entry {
-	height: 65px;
 	overflow: hidden;
 	margin-bottom: 5px;
+}
+
+.feat-entry:nth-child(odd) {
+	.feat-text h3 {
+		color: $green;
+		border-bottom: dotted 2px $green;
+	}
+}
+
+.feat-entry:nth-child(even) {
+	.feat-text h3 {
+		color: $red;
+		border-bottom: dotted 2px $red;
+	}
 }
 
 .feat-title {
@@ -179,9 +193,7 @@ img {
 	width: 65%;
 	h3 {
 		margin: 0;
-		color: $red;
 		font-weight: 300;
-		border-bottom: dotted 2px $red;
 		padding: 0 5px 5px 5px;
 	}
 	span {
@@ -192,6 +204,10 @@ img {
 		height: 100%;
 		display: inline-block;
 	}
+}
+
+.feat-excerpt {
+	display: none;
 }
 
 /** ===============
@@ -229,4 +245,7 @@ img {
 ===================*/
 .pie {
 	text-align: right;
+	color: #fff;
+	background: #000;
+	padding: 15px 10px;
 }

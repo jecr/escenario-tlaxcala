@@ -1,3 +1,53 @@
 body {
 	background: #bbb;
 }
+
+.feat-text {
+	h3, span {
+		display: inline-block;
+		width: auto; height: auto;
+		font-weight: 300;
+		font-size: 1.17em;
+		padding: 0 5px 5px 5px;
+	}
+	h3 {
+		border: none !important;
+	}
+}
+
+.feat-entry:nth-child(odd) {
+	.feat-text {
+		h3, span {
+			color: $green;
+		}
+		span {
+			border-left: 1px solid $green;
+		}
+		.feat-bot-border {
+			border-bottom: dotted 2px $green;
+		}
+	}
+}
+
+.feat-entry:nth-child(even) {
+	.feat-text {
+		h3, span {
+			color: $red;
+		}
+		span {
+			border-left: 1px solid $red;
+		}
+		.feat-bot-border {
+			border-bottom: dotted 2px $red;
+		}
+	}
+}
+
+
+.feat-excerpt {
+	display: block;
+	float: left;
+	font-size: .9em;
+	box-sizing: border-box;
+	padding: 0 5px 5px 5px;
+}
