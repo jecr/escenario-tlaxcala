@@ -23,6 +23,8 @@
 <body>
 
 <div class="main-container">
+
+	<?php /*Menú versión móvil*/ ?>
 	<nav class="wrap mobile-menu">
 		<div class="logo-over"><a href=""><img src="img/logo-menu.svg"></a></div>
 		<ul class="menu-container">
@@ -38,24 +40,49 @@
 			<a href="#galería">GALERÍA</a></li>
 		</ul>
 		<ul class="socials">
-			<li><a href=""><div class="s1"></div></a></li><li>
-				<a href=""><div class="s2"></div></a></li><li>
-				<a href=""><div class="s3"></div></a></li><li>
-				<a href=""><div class="s4"></div></a></li><li>
-				<a href=""><div class="s5"></div></a></li><li>
-				<a href=""><div class="s6"></div></a></li><li>
-				<a href=""><div class="s7"></div></a></li><li>
-				<a href=""><div class="s8"></div></a></li>
+			<li><a href=""><div class="s1"><img src="img/socials/fb.svg" alt="Facebook"></div></a></li><li>
+				<a href=""><div class="s2"><img src="img/socials/ig.svg" alt="Instagram"></div></a></li><li>
+				<a href=""><div class="s3"><img src="img/socials/tw.svg" alt="Twitter"></div></a></li><li>
+				<a href=""><div class="s4"><img src="img/socials/rd1.svg" alt="Red Social"></div></a></li><li>
+				<a href=""><div class="s5"><img src="img/socials/yt.svg" alt="YouTube"></div></a></li><li>
+				<a href=""><div class="s6"><img src="img/socials/rd2.svg" alt="Red Social"></div></a></li><li>
+				<a href=""><div class="s7"><img src="img/socials/sp.svg" alt="Spotify"></div></a></li><li>
+				<a href=""><div class="s8"><img src="img/socials/rd3.svg" alt="Red Social"></div></a></li>
 		</ul>
 	</nav>
 
+	<?php /*Menú versión completa*/ ?>
+	<nav class="wrap full-menu">
+		<div class="logo-over"><a href=""><img src="img/logo-menu.svg"></a></div>
+		<ul class="full-menu-container">
+			<li><a href="">COLUMNAS</a></li><li>
+			<a href="">PROGRAMAS</a></li><li>
+			<a href="">NOTICIAS</a></li><li>
+			</li><li>
+			<a href="">NOSOTROS</a></li><li>
+			<a href="">ACCIONES</a></li><li>
+			<a href="">RECOMENDACIÓN</a></li>
+		</ul>
+	</nav>
+
+	<?php /*Banner Principal*/ ?>
 	<div class="wrap home-banner">
-		<img src="http://placehold.it/1024x318">
+		<img src="img/imagen-web.jpg" alt="Escenario Tlaxcala">
+		<div class="socials-full">
+			<a href="" class="sf1"><div><img src="img/socials/fb.svg" alt="Facebook"></div></a>
+			<a href="" class="sf2"><div><img src="img/socials/tw.svg" alt="Twitter"></div></a>
+			<a href="" class="sf3"><div><img src="img/socials/yt.svg" alt="YouTube"></div></a>
+			<a href="" class="sf4"><div><img src="img/socials/sp.svg" alt="Spotify"></div></a>
+			<a href="" class="sf5"><div><img src="img/socials/ig.svg" alt="Instagram"></div></a>
+			<a href="" class="sf6"><div><img src="img/socials/rd1.svg" alt="Red Social"></div></a>
+			<a href="" class="sf7"><div><img src="img/socials/rd2.svg" alt="Red Social"></div></a>
+			<a href="" class="sf8"><div><img src="img/socials/rd3.svg" alt="Red Social"></div></a>
+		</div>
 	</div>
 
-	<div class="featured">
-		<section class="feat-section"> <!-- Featured entries section start -->
-			<div class="feat-title" style="background: #00A6D7;">
+	<div class="featured cf">
+		<section class="feat-section col-col"> <!-- Featured entries section start -->
+			<div class="feat-title">
 				Columnas
 			</div>
 
@@ -66,19 +93,23 @@
 				</div>
 				<div class="feat-text">
 					<div class="feat-bot-border">
-						<h3><a href="#">Ficciones gatunas</a></h3>
+						<h3><a href="#"><img src="img/ico-col.svg" alt="Columnas">Ficciones gatunas</a></h3>
 						<span><a href="#">El arriero</a></span>
 					</div>
 					<div class="feat-excerpt">
 						Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+					</div>
+					<div class="feat-date">
+						<span>18 Abril</span>
+						<a href="">Leer más >></a>
 					</div>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>
 
 		</section> <!-- Featured entries section end -->
-		<section class="feat-section"> <!-- Featured entries section start -->
-			<div class="feat-title" style="background: #1066B0;">
+		<section class="feat-section col-not"> <!-- Featured entries section start -->
+			<div class="feat-title">
 				Noticias
 			</div>
 
@@ -89,19 +120,23 @@
 				</div>
 				<div class="feat-text">
 					<div class="feat-bot-border">
-						<h3><a href="#">Ficciones gatunas</a></h3>
+						<h3><a href="#"><img src="img/ico-not.svg" alt="Noticias">Ficciones gatunas</a></h3>
 						<span><a href="#">El arriero</a></span>
 					</div>
 					<div class="feat-excerpt">
 						Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+					</div>
+					<div class="feat-date">
+						<span>18 Abril</span>
+						<a href="">Leer más >></a>
 					</div>
 				</div>
 			</div> <!-- Featured entry end -->
 			<?php } ?>
 
 		</section> <!-- Featured entries section end -->
-		<section class="feat-section"> <!-- Featured entries section start -->
-			<div class="feat-title" style="background: #EF6B49;">
+		<section class="feat-section col-acc"> <!-- Featured entries section start -->
+			<div class="feat-title">
 				Acciones
 			</div>
 
@@ -112,11 +147,15 @@
 				</div>
 				<div class="feat-text">
 					<div class="feat-bot-border">
-						<h3><a href="#">Ficciones gatunas</a></h3>
+						<h3><a href="#"><img src="img/ico-acc.svg" alt="Acciones">Ficciones gatunas</a></h3>
 						<span><a href="#">El arriero</a></span>
 					</div>
 					<div class="feat-excerpt">
 						Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+					</div>
+					<div class="feat-date">
+						<span>18 Abril</span>
+						<a href="">Leer más >></a>
 					</div>
 				</div>
 			</div> <!-- Featured entry end -->

@@ -1,3 +1,19 @@
-body {
-	background: #999;
+.socials-full {
+	div {
+		width: 40px; height: 40px;
+	}
+}
+
+.sf1 { top: 10%; left: 3%; }
+.sf2 { top: 30%; left: 3%; }
+.sf3 { top: 50%; left: 3%; }
+.sf4 { top: 70%; left: 3%; }
+
+.sf5 { top: 10%; right: 3%; }
+.sf6 { top: 30%; right: 3%; }
+.sf7 { top: 50%; right: 3%; }
+.sf8 { top: 70%; right: 3%; }
+
+.featured {
+	max-width: 730px;
 }

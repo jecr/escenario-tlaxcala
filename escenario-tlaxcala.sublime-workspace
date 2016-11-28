@@ -4,24 +4,40 @@
 		"selected_items":
 		[
 			[
-				"fon",
-				"font-weight"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
 				"ma",
-				"margin-left"
+				"max-width"
+			],
+			[
+				"re",
+				"red"
 			],
 			[
 				"mar",
 				"margin-bottom"
 			],
 			[
+				"mari",
+				"margin-left"
+			],
+			[
 				"bor",
-				"border-bottom"
+				"border"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
 			],
 			[
 				"paddi",
@@ -30,10 +46,6 @@
 			[
 				"bac",
 				"background"
-			],
-			[
-				"margi",
-				"margin-right"
 			],
 			[
 				"wid",
@@ -276,10 +288,6 @@
 				"block"
 			],
 			[
-				"mari",
-				"margin-top"
-			],
-			[
 				"marg",
 				"margin"
 			],
@@ -399,25 +407,8 @@
 			"file": "dev/prod/index.php",
 			"settings":
 			{
-				"buffer_size": 4459,
+				"buffer_size": 7333,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "dev/scss/_structure.scss",
-			"settings":
-			{
-				"buffer_size": 3293,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/vjdar/Dropbox/adr.txt",
-			"settings":
-			{
-				"buffer_size": 6215,
 				"line_ending": "Windows"
 			}
 		}
@@ -471,9 +462,22 @@
 	"file_history":
 	[
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/index.php",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_fonts.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break1.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break2.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break3.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break4.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/base.scss",
+		"/C/Users/vjdar/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_fonts.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/index.php",
+		"/C/Users/vjdar/Documents/GitHub/rp-responsive/dev/scss/_fonts.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/css/fonts/stylesheet.css",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/css/fonts/generator_config.txt",
+		"/C/Users/vjdar/Downloads/Topaz Labs/Topaz.PluginPS.CC.WWW.ARTISTAPIRATA.COM/Descargado de ARTISTAPIRATA.COM.txt",
+		"/C/Users/vjdar/Downloads/MSW7UX32/importante.txt",
+		"/C/Users/vjdar/Documents/GitHub/icr-caja/backend/util/medios-historico.txt",
+		"/C/Users/vjdar/Documents/GitHub/icr-caja/backend/util/medios-historico-recuperados.json",
+		"/C/Users/vjdar/Dropbox/adr.txt",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_normalize.scss",
 		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/prod/index.php",
 		"/Users/vjdarr/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
@@ -584,30 +588,18 @@
 		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/debate_puebla/debate_puebla_May132016.txt-clean.txt",
 		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/debate_puebla/debate_puebla_May132016.txt",
-		"/C/Users/Jorge/Desktop/retweets.csv",
-		"/C/Users/Jorge/Desktop/result.csv",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/clasif/hoy_no_circula_May032016_clas.json",
-		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/hoy_no_circula/hoy_no_circula_May112016.txt",
-		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/hoy_no_circula/hoy_no_circula_Apr232016.txt",
-		"/C/Users/Jorge/AppData/Local/Temp/menc_hoy_no_circula_Apr232016_filtro.json",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_May032016_out.json",
-		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/header.php",
-		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/nuevo_sandero.php",
-		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/index.php",
-		"/C/Users/Jorge/AppData/Local/Temp/fz3temp-1/safrane.php",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/hoy_no_circula/hoy_no_circula_May052016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Recuperación/Tweet_Mining_Script/hoy_no_circula/hoy_no_circula_May032016.txt",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/Uber/Visualización/D3/galway/grafo-enlaces-multiples.html"
+		"/C/Users/Jorge/Desktop/retweets.csv"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
 		"height": 138.0,
 		"where_history":
 		[
+			"C:\\Users\\vjdar\\Documents\\GitHub\\escenario-tlaxcala\\dev\\scss",
 			"C:\\Users\\Jorge\\Google Drive\\MADIC\\Tesis\\Eventos\\HoyNoCircula\\clasif",
 			"C:\\Users\\Jorge\\Google Drive\\MADIC\\Tesis\\Eventos\\HoyNoCircula\\filtro",
 			"C:\\Users\\Jorge\\Google Drive\\MADIC\\Tesis\\Eventos\\HoyNoCircula\\clasif",
@@ -623,6 +615,43 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"featured",
+			"90%",
+			"featured",
+			"entry",
+			"excerp",
+			"excerpt",
+			"feat-text",
+			"class=\"sf",
+			"left",
+			"20px",
+			"feat-ex",
+			"25px",
+			"10px",
+			"<img sr",
+			"svg",
+			".sf",
+			"sf",
+			"40",
+			"left",
+			".s",
+			"socials",
+			"\"s",
+			"</li><li>",
+			"background: #",
+			"background: ",
+			"feat-title",
+			"col-",
+			"30%",
+			"FEATURED",
+			"featured",
+			"font-we",
+			"font-size",
+			"menu-container",
+			"mob-soc",
+			"mob-nav",
+			"font-size",
+			" ",
 			"img",
 			"00A6D7",
 			"div",
@@ -713,44 +742,7 @@
 			"': ",
 			"lizclapes",
 			"'medio'",
-			"'politico',",
-			"politico",
-			"'ciudadano'",
-			"'medio'",
-			"'politico'",
-			"': '",
-			"': ",
-			"1",
-			"arwensuerte",
-			"': '",
-			"': ",
-			"aola",
-			"\"description\":",
-			"\"description\": ",
-			"description: ",
-			"\",\"",
-			", ",
-			"}",
-			"{",
-			",",
-			"'medio",
-			"medio",
-			"': ",
-			"victorjorrin",
-			"': ",
-			"'medio'",
-			"'politico'",
-			"politico",
-			" / float",
-			"M",
-			"_karenaguilar_",
-			"Medio",
-			"': ",
-			"usuario",
-			"stem",
-			".encode('UTF-8')",
-			"Politicos",
-			"listado"
+			"'politico',"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -782,7 +774,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -791,23 +783,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4459,
+						"buffer_size": 7333,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3755,
-								3755
-							],
-							[
-								3842,
-								3842
-							],
-							[
-								3887,
-								3887
+								3734,
+								3742
 							]
 						],
 						"settings":
@@ -816,64 +800,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 855.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "dev/scss/_structure.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3293,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2778,
-								2778
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1984.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/vjdar/Dropbox/adr.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6215,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1500.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -884,7 +811,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 21.0
+		"height": 31.0
 	},
 	"input":
 	{
