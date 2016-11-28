@@ -4,8 +4,8 @@
 $main-blue: #2A2E7D;
 $light-blue: #00A6D7;
 $dark-blue: #1F1F23;
-$lpurple: lighten(#483085, 50%);
-$lblue: lighten(#1C3664, 50%);
+$lpurple: #575A99;
+$lblue: #4386C1;
 $red: #C04B27;
 $green: #06562C;
 
@@ -38,6 +38,12 @@ img {
 
 .wrap {
 	width: 100%;
+	margin: 0 auto;
+}
+
+.wrap90 {
+	width: 90%;
+	max-width: 730px;
 	margin: 0 auto;
 }
 
@@ -74,7 +80,7 @@ img {
 	img {
 		display: inline-block;
 		max-width: 115px;
-		min-width: 96px;
+		min-width: 83.58px;
 	}
 }
 
@@ -195,19 +201,19 @@ img {
 
 	.col-col {
 		.feat-title {
-			background: #00A6D7;
+			background: $light-blue;
 		}
 	}
 
 	.col-not {
 		.feat-title {
-			background: #1066B0;
+			background: $lblue;
 		}
 	}
 
 	.col-acc {
 		.feat-title {
-			background: #EF6B49;
+			background: $lpurple;
 		}
 	}
 
@@ -235,6 +241,18 @@ img {
 	text-transform: uppercase;
 	color: white;
 	text-align: center;
+	position: relative;
+	font-family: $BigNoodleTitling;
+	font-weight: 100;
+	font-size: 1.4em;
+	line-height: 100%;
+	padding-top: 8px;
+	img {
+		display: none;
+		position: relative;
+		width: 50%;
+		top: -6px;
+	}
 }
 
 .feat-picture, .feat-text {
@@ -313,7 +331,11 @@ img {
 	CONTÁCTANOS
 ===================*/
 .contactanos {
+	margin-bottom: 15px;
+	margin-top: 25px;
 	text-align: center;
+	font-family: $BigNoodleTitling;
+	font-weight: 100;
 	span {
 		display: block;
 		color: $main-blue;
@@ -323,6 +345,18 @@ img {
 	i {
 		color: $light-blue;
 		font-size: 3em;
+	}
+}
+
+.lower-banners {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	a {
+		float: left;
+		width: 33.3%;
+		img {
+			width: 100%;
+		}
 	}
 }
 

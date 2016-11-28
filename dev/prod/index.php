@@ -83,7 +83,8 @@
 	<div class="featured cf">
 		<section class="feat-section col-col"> <!-- Featured entries section start -->
 			<div class="feat-title">
-				Columnas
+				<span>Columnas</span>
+				<img src="img/custom-headers/ch-columnas.svg">
 			</div>
 
 			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
@@ -110,7 +111,8 @@
 		</section> <!-- Featured entries section end -->
 		<section class="feat-section col-not"> <!-- Featured entries section start -->
 			<div class="feat-title">
-				Noticias
+				<span>Noticias</span>
+				<img src="img/custom-headers/ch-noticias.svg">
 			</div>
 
 			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
@@ -137,7 +139,8 @@
 		</section> <!-- Featured entries section end -->
 		<section class="feat-section col-acc"> <!-- Featured entries section start -->
 			<div class="feat-title">
-				Acciones
+				<span>Acciones</span>
+				<img src="img/custom-headers/ch-acciones.svg">
 			</div>
 
 			<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
@@ -170,7 +173,12 @@
 
 	<div class="contactanos">
 		<span>CONTÁCTANOS</span>
-		<i class="fa fa-angle-double-up" aria-hidden="true"></i>
+		<div class="lower-banners wrap90 cf">
+			<a href="#lower-banner1"><img src="http://placehold.it/243x158"></a>
+			<a href="#lower-banner2"><img src="http://placehold.it/243x158"></a>
+			<a href="#lower-banner3"><img src="http://placehold.it/243x158"></a>
+		</div>
+		<a href="#goup"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
 	</div>
 
 	<footer class="pie">

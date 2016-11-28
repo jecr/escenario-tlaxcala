@@ -2,6 +2,11 @@
 	display: none;
 }
 
+.logo-over {
+	width: 14.28%;
+	left: 42.84%;
+}
+
 .full-menu {
 	display: block;
 }
@@ -22,6 +27,17 @@
 		margin: 0 1%;
 	}
 }
+
+	.feat-title {
+		line-height: 0%;
+		padding-top: 0;
+		span {
+			display: none;
+		}
+		img {
+			display: inline-block;
+		}
+	}
 
 .feat-entry {
 	padding-bottom: 5px;
@@ -66,16 +82,16 @@
 
 .col-col {
 	.feat-bot-border {
-		background: darken(#00A6D7, 20%);
+		background: darken(#EF6B49, 25%);
 	}
 }
 .col-not {
 	.feat-bot-border {
-		background: darken(#1066B0, 20%);
+		background: darken(#00A6D7, 20%);
 	}
 }
 .col-acc {
 	.feat-bot-border {
-		background: darken(#EF6B49, 20%);
+		background: darken(#EF6B49, 18%);
 	}
 }
