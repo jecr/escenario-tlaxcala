@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
+	<title>Escenario Tlaxcala</title>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" href="favicon/favicon-32x32.png" sizes="32x32">
@@ -22,7 +22,7 @@
 </head>
 <body>
 
-<div class="main-container">
+<div class="main-container" id="top">
 
 	<?php /*Menú versión móvil*/ ?>
 	<nav class="wrap mobile-menu">
@@ -55,19 +55,21 @@
 	<nav class="wrap full-menu">
 		<div class="logo-over"><a href=""><img src="img/logo-menu.svg"></a></div>
 		<ul class="full-menu-container">
-			<li><a href="">COLUMNAS</a></li><li>
-			<a href="">PROGRAMAS</a></li><li>
-			<a href="">NOTICIAS</a></li><li>
+			<li><a href="#columnas">COLUMNAS</a></li><li>
+			<a href="#programas">PROGRAMAS</a></li><li>
+			<a href="#noticias">NOTICIAS</a></li><li>
 			</li><li>
-			<a href="">NOSOTROS</a></li><li>
-			<a href="">ACCIONES</a></li><li>
-			<a href="">RECOMENDACIÓN</a></li>
+			<a href="#nosotros">NOSOTROS</a></li><li>
+			<a href="#acciones">ACCIONES</a></li><li>
+			<a href="#recomendación">RECOMENDACIÓN</a></li>
 		</ul>
 	</nav>
 
 	<?php /*Banner Principal*/ ?>
 	<div class="wrap home-banner">
 		<img src="img/imagen-web.jpg" alt="Escenario Tlaxcala">
+		<img src="img/logo-simple.svg" class="logo-banner-s">
+		<img src="img/logo-comp.svg" class="logo-banner-c">
 		<div class="socials-full">
 			<a href="" class="sf1"><div><img src="img/socials/fb.svg" alt="Facebook"></div></a>
 			<a href="" class="sf2"><div><img src="img/socials/tw.svg" alt="Twitter"></div></a>
@@ -178,7 +180,7 @@
 			<a href="#lower-banner2"><img src="http://placehold.it/243x158"></a>
 			<a href="#lower-banner3"><img src="http://placehold.it/243x158"></a>
 		</div>
-		<a href="#goup"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
+		<a href="#top"><i class="fa fa-angle-double-up" aria-hidden="true"></i></a>
 	</div>
 
 	<footer class="pie">
