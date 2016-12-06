@@ -411,6 +411,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "dev/prod/index.php",
+			"settings":
+			{
+				"buffer_size": 8006,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -457,10 +466,12 @@
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/javascript",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/css",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss"
 	],
 	"file_history":
 	[
+		"/C/Users/vjdar/Dropbox/Him/Renault/Tepepan/about.txt",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/index.php",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break1.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break3.scss",
@@ -587,8 +598,7 @@
 		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
 		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/debate_puebla/debate_puebla_May132016.txt-clean.txt",
-		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/debate_puebla/debate_puebla_May132016.txt"
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/debate_puebla/debate_puebla_May132016.txt-clean.txt"
 	],
 	"find":
 	{
@@ -774,8 +784,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "dev/prod/index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 460.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
