@@ -2,9 +2,9 @@
 
 <?php /*Banner Principal*/ ?>
 <div class="wrap home-banner">
-	<img src="img/section-banners/imagen-web.jpg" alt="Escenario Tlaxcala">
-	<img src="img/logo-simple.svg" class="logo-banner-s">
-	<img src="img/logo-comp.svg" class="logo-banner-c">
+	<img src="img/section-banners/banner-columnas.jpg" alt="Escenario Tlaxcala">
+	<img src="img/ico-col.svg" class="logo-banner-s">
+	<img src="img/ico-col-comp.svg" class="logo-banner-c">
 	<div class="socials-full">
 		<a href="" class="sf1"><div><img src="img/socials/fb.svg" alt="Facebook"></div></a>
 		<a href="" class="sf2"><div><img src="img/socials/tw.svg" alt="Twitter"></div></a>
@@ -15,6 +15,36 @@
 		<a href="" class="sf7"><div><img src="img/socials/rd2.svg" alt="Red Social"></div></a>
 		<a href="" class="sf8"><div><img src="img/socials/rd3.svg" alt="Red Social"></div></a>
 	</div>
+</div>
+
+<?php /* === CONTENIDO === */ ?>
+
+<div class="cols-cats cf">
+	<div class="cat-head">CATEGORÍAS</div>
+	<div class="cat">
+		<img src="img/columnas/col-cat01.svg">
+		<span>ARTE Y CULTURA</span>
+	</div>
+	<div class="cat">
+		<img src="img/columnas/col-cat02.svg">
+		<span>TRADICIÓN E HISTORIA</span>
+	</div>
+	<div class="cat">
+		<img src="img/columnas/col-cat03.svg">
+		<span>POLÍTICA Y ECONOMÍA</span>
+	</div>
+	<div class="cat">
+		<img src="img/columnas/col-cat04.svg">
+		<span>CIENCIA Y TECNOLOGÍA</span>
+	</div>
+	<div class="cat">
+		<img src="img/columnas/col-cat05.svg">
+		<span>SOCIALES</span>
+	</div>
+</div>
+
+<div class="cols-patroc">
+	PATROCINADORES
 </div>
 
 <div class="featured cf">
@@ -102,19 +132,6 @@
 		<?php } ?>
 
 	</section> <!-- Featured entries section end -->
-</div>
-
-<div class="banner-home-inf">
-	<img src="img/joven-tlaxcalteca.jpg">
-</div>
-
-<div class="contactanos">
-	<span>CONTÁCTANOS</span>
-	<div class="lower-banners wrap90 cf">
-		<a href="#lower-banner1"><img src="http://placehold.it/243x158"></a>
-		<a href="#lower-banner2"><img src="http://placehold.it/243x158"></a>
-		<a href="#lower-banner3"><img src="http://placehold.it/243x158"></a>
-	</div>
 </div>
 
 <?php include 'includes/footer.php'; ?>

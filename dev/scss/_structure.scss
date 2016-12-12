@@ -359,6 +359,12 @@ img {
 		font-size: 1.7em;
 		font-weight: 700;
 	}
+}
+
+.goup {
+	text-align: center;
+	font-weight: 100;
+	margin-bottom: 15px;
 	i {
 		color: $light-blue;
 		font-size: 3em;
@@ -379,7 +385,7 @@ img {
 }
 
 /** ===============
-	CONTÁCTANOS
+		FOOTER
 ===================*/
 .pie {
 	color: #fff;
@@ -391,4 +397,29 @@ img {
 		width: 90%;
 		margin: 0 auto;
 	}
+}
+
+/** =========================
+		SECCIÓN: COLUMNAS
+=============================*/
+
+.cols-cats {
+	margin: 17px auto;
+	.cat {
+		float: left;
+		width: 20%;
+		span {
+			display: none;
+		}
+		img {
+			width: 100%;
+		}
+	}
+	.cat-head {
+		display: none;
+	}
+}
+
+.cols-patroc {
+	display: none;
 }
