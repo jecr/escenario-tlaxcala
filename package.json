@@ -1,0 +1,29 @@
+{
+  "name": "escenario-tlaxcala",
+  "version": "1.0.0",
+  "description": "Static theme for Escenario Tlaxcala's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecr/escenario-tlaxcala.git"
+  },
+  "keywords": [
+    "Website"
+  ],
+  "author": "Jorge Cortés",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jecr/escenario-tlaxcala/issues"
+  },
+  "homepage": "https://github.com/jecr/escenario-tlaxcala#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

@@ -411,24 +411,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "dev/prod/columnas.php",
-			"settings":
-			{
-				"buffer_size": 5002,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "dev/scss/_structure.scss",
-			"settings":
-			{
-				"buffer_size": 5672,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -450,7 +432,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 768.0
+		"width": 648.0
 	},
 	"console":
 	{
@@ -479,6 +461,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/columnas.php",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/index.php",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/includes/footer.php",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/includes/header.php",
@@ -488,7 +472,6 @@
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break3.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break2.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/javascript/actions.js",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/base.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break4.scss",
 		"/C/Users/vjdar/AppData/Local/Temp/fz3temp-2/index.php",
@@ -605,8 +588,7 @@
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_May032016-usuarios.csv",
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_Apr042016-gephi.csv",
 		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/audios_oaxaca/audios_oaxaca_May132016.txt",
-		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/test.py",
-		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings"
+		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/test.py"
 	],
 	"find":
 	{
@@ -792,68 +774,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "dev/prod/columnas.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5002,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4961,
-								4961
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2870.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "dev/scss/_structure.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5672,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5496,
-								5496
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 9206.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
