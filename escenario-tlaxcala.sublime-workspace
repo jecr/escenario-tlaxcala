@@ -456,24 +456,28 @@
 	[
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/includes",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss"
 	],
 	"file_history":
 	[
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_structure.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/base.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/entrada.php",
+		"/C/Users/vjdar/Dropbox/Him/Renault/Puebla/about.txt",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/columnas.php",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/index.php",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/Gruntfile.js",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/.gitignore",
+		"/C/Users/vjdar/Documents/GitHub/rp_calendario/package.json",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break4.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break3.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break2.scss",
+		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break1.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/includes/footer.php",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/prod/includes/header.php",
 		"/C/Users/vjdar/Desktop/Adobe.Premiere.Pro.CC.2015.v9.0.0.342.Multilingual.Incl.Keygen-XFORCE/Instrucciones.txt",
 		"/C/Users/vjdar/Dropbox/Him/Renault/Tepepan/about.txt",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break1.scss",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break3.scss",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break2.scss",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/javascript/actions.js",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/base.scss",
-		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_break4.scss",
 		"/C/Users/vjdar/AppData/Local/Temp/fz3temp-2/index.php",
 		"/C/Users/vjdar/Documents/GitHub/escenario-tlaxcala/dev/scss/_fonts.scss",
 		"/C/Users/vjdar/Documents/GitHub/rp-responsive/dev/scss/_fonts.scss",
@@ -583,12 +587,7 @@
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr052016-usuarios.csv",
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr042016-usuarios.csv",
 		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr012016-usuarios.csv",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr022016-usuarios.csv",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_May032016-gephi.csv",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_May032016-usuarios.csv",
-		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/filtro/hoy_no_circula_Apr042016-gephi.csv",
-		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/audios_oaxaca/audios_oaxaca_May132016.txt",
-		"/C/Users/Jorge/Dropbox/Temas selectos III/Tweepy/test.py"
+		"/C/Users/Jorge/Google Drive/MADIC/Tesis/Eventos/HoyNoCircula/GEPHI/hoy_no_circula_Apr022016-usuarios.csv"
 	],
 	"find":
 	{
@@ -615,6 +614,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"div",
+			".colu",
+			".colu-ac",
+			"colu-",
+			"col-acc",
 			"columnas",
 			"contactanos",
 			"container",
@@ -737,12 +741,7 @@
 			"'politico'",
 			"politico",
 			"},",
-			"description",
-			"}, \n    {",
-			"}\n",
-			"\"description\": ",
-			"description\":",
-			"\"description\":"
+			"description"
 		],
 		"highlight": true,
 		"in_selection": false,

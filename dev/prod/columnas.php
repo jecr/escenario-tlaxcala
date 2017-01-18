@@ -48,9 +48,9 @@
 </div>
 
 <div class="featured cf">
-	<section class="feat-section col-col"> <!-- Featured entries section start -->
+	<section class="feat-section colu-ac"> <!-- Featured entries section start -->
 		<div class="feat-title">
-			<span>Columnas</span>
+			<span>Arte y Cultura</span>
 			<img src="img/custom-headers/ch-columnas.svg">
 		</div>
 
@@ -74,11 +74,11 @@
 			</div>
 		</div> <!-- Featured entry end -->
 		<?php } ?>
-
 	</section> <!-- Featured entries section end -->
-	<section class="feat-section col-not"> <!-- Featured entries section start -->
+	
+	<section class="feat-section colu-th"> <!-- Featured entries section start -->
 		<div class="feat-title">
-			<span>Noticias</span>
+			<span>Tradición e Historia</span>
 			<img src="img/custom-headers/ch-noticias.svg">
 		</div>
 
@@ -102,11 +102,11 @@
 			</div>
 		</div> <!-- Featured entry end -->
 		<?php } ?>
-
 	</section> <!-- Featured entries section end -->
-	<section class="feat-section col-acc"> <!-- Featured entries section start -->
+
+	<section class="feat-section colu-ce"> <!-- Featured entries section start -->
 		<div class="feat-title">
-			<span>Acciones</span>
+			<span>Ciencia y Ecología</span>
 			<img src="img/custom-headers/ch-acciones.svg">
 		</div>
 
@@ -130,7 +130,62 @@
 			</div>
 		</div> <!-- Featured entry end -->
 		<?php } ?>
+	</section> <!-- Featured entries section end -->
 
+	<section class="feat-section colu-pe"> <!-- Featured entries section start -->
+		<div class="feat-title">
+			<span>Política y Economía</span>
+			<img src="img/custom-headers/ch-acciones.svg">
+		</div>
+
+		<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
+		<div class="cf feat-entry"> <!-- Featured entry start -->
+			<div class="feat-picture">
+				<a href="#"><img src="http://placehold.it/113x65"></a>
+			</div>
+			<div class="feat-text">
+				<div class="feat-bot-border">
+					<h3><a href="#"><img src="img/ico-acc.svg" alt="Acciones">Ficciones gatunas</a></h3>
+					<span><a href="#">El arriero</a></span>
+				</div>
+				<div class="feat-excerpt">
+					Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+				</div>
+				<div class="feat-date">
+					<span>18 Abril</span>
+					<a href="">Leer más >></a>
+				</div>
+			</div>
+		</div> <!-- Featured entry end -->
+		<?php } ?>
+	</section> <!-- Featured entries section end -->
+
+	<section class="feat-section colu-so"> <!-- Featured entries section start -->
+		<div class="feat-title">
+			<span>Sociales</span>
+			<img src="img/custom-headers/ch-acciones.svg">
+		</div>
+
+		<?php for ($i=0; $i <3 ; $i++) { // Remove me before releasing!!! ?>
+		<div class="cf feat-entry"> <!-- Featured entry start -->
+			<div class="feat-picture">
+				<a href="#"><img src="http://placehold.it/113x65"></a>
+			</div>
+			<div class="feat-text">
+				<div class="feat-bot-border">
+					<h3><a href="#"><img src="img/ico-acc.svg" alt="Acciones">Ficciones gatunas</a></h3>
+					<span><a href="#">El arriero</a></span>
+				</div>
+				<div class="feat-excerpt">
+					Me gusta escribir ficciones porque me gusta jugar con la brevedad, es hacer de las letras algo pequeño que deje algo grande. El cuento y la novela son muy distintos a estos que yo llamo juegos...
+				</div>
+				<div class="feat-date">
+					<span>18 Abril</span>
+					<a href="">Leer más >></a>
+				</div>
+			</div>
+		</div> <!-- Featured entry end -->
+		<?php } ?>
 	</section> <!-- Featured entries section end -->
 </div>
 
