@@ -13,3 +13,18 @@
 .sf6 { top: 63%; right: 3%; }
 .sf7 { top: 75%; right: 3%; }
 .sf8 { top: 87%; right: 3%; }
+
+/** =========================
+		SECCIÓN: ENTRADA
+=============================*/
+.entrada {
+	.entrada-texto, .entrada-comentarios {
+		width: 70%;
+	}
+	header {
+		width: 30%;
+	}
+	picture {
+		width: 70%;
+	}
+}

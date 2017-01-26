@@ -22,20 +22,6 @@ module.exports = function(grunt) {
 				}
 			}
 		},
-		// BrowserSync
-		browserSync: {
-			dev: {
-				bsFiles: {
-					src: "dev/prod/css/*.css",
-					src: "dev/prod/*.php",
-					src: "dev/scss/*.scss"
-				},
-				options: {
-					watchTask: true,
-					proxy: 'http://localhost/GitHub/escenario-tlaxcala/dev/prod/'
-				}
-			}
-		},
 		// Uglify
 		uglify: {
 			my_target: {
@@ -49,8 +35,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks("grunt-contrib-watch");
 	grunt.loadNpmTasks("grunt-contrib-sass");
 	grunt.loadNpmTasks("grunt-contrib-uglify");
-	grunt.loadNpmTasks("grunt-browser-sync");
 
 	// Default task
-	grunt.registerTask("default", ["browserSync", "watch"]);
+	grunt.registerTask("default", ["watch","sass","uglify"]);
 };

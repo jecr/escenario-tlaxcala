@@ -7,10 +7,10 @@
 	<img src="img/ico-col-comp.svg" class="logo-banner-c">
 	<div class="socials-full">
 		<a href="" class="sf1"><div><img src="img/socials/fb.svg" alt="Facebook"></div></a>
-		<a href="" class="sf2"><div><img src="img/socials/tw.svg" alt="Twitter"></div></a>
+		<a href="https://twitter.com/EscenarioTlx" class="sf2"><div><img src="img/socials/tw.svg" alt="Twitter"></div></a>
 		<a href="" class="sf3"><div><img src="img/socials/yt.svg" alt="YouTube"></div></a>
 		<a href="" class="sf4"><div><img src="img/socials/sp.svg" alt="Spotify"></div></a>
-		<a href="" class="sf5"><div><img src="img/socials/ig.svg" alt="Instagram"></div></a>
+		<a href="https://www.instagram.com/EscenarioTlx/" class="sf5"><div><img src="img/socials/ig.svg" alt="Instagram"></div></a>
 		<a href="" class="sf6"><div><img src="img/socials/rd1.svg" alt="Red Social"></div></a>
 		<a href="" class="sf7"><div><img src="img/socials/rd2.svg" alt="Red Social"></div></a>
 		<a href="" class="sf8"><div><img src="img/socials/rd3.svg" alt="Red Social"></div></a>
@@ -48,7 +48,7 @@
 </div>
 
 <div class="featured cf">
-	<section class="feat-section colu-ac"> <!-- Featured entries section start -->
+	<section class="feat-section colu-1"> <!-- Featured entries section start -->
 		<div class="feat-title">
 			<span>Arte y Cultura</span>
 			<img src="img/custom-headers/ch-columnas.svg">
@@ -76,7 +76,7 @@
 		<?php } ?>
 	</section> <!-- Featured entries section end -->
 	
-	<section class="feat-section colu-th"> <!-- Featured entries section start -->
+	<section class="feat-section colu-2"> <!-- Featured entries section start -->
 		<div class="feat-title">
 			<span>Tradición e Historia</span>
 			<img src="img/custom-headers/ch-noticias.svg">
@@ -104,7 +104,7 @@
 		<?php } ?>
 	</section> <!-- Featured entries section end -->
 
-	<section class="feat-section colu-ce"> <!-- Featured entries section start -->
+	<section class="feat-section colu-3"> <!-- Featured entries section start -->
 		<div class="feat-title">
 			<span>Ciencia y Ecología</span>
 			<img src="img/custom-headers/ch-acciones.svg">
@@ -132,7 +132,7 @@
 		<?php } ?>
 	</section> <!-- Featured entries section end -->
 
-	<section class="feat-section colu-pe"> <!-- Featured entries section start -->
+	<section class="feat-section colu-4"> <!-- Featured entries section start -->
 		<div class="feat-title">
 			<span>Política y Economía</span>
 			<img src="img/custom-headers/ch-acciones.svg">
@@ -160,7 +160,7 @@
 		<?php } ?>
 	</section> <!-- Featured entries section end -->
 
-	<section class="feat-section colu-so"> <!-- Featured entries section start -->
+	<section class="feat-section colu-5"> <!-- Featured entries section start -->
 		<div class="feat-title">
 			<span>Sociales</span>
 			<img src="img/custom-headers/ch-acciones.svg">

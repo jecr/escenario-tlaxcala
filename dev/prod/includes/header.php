@@ -34,15 +34,15 @@
 		<ul class="navigation">
 			<li><a href="columnas.php">COLUMNAS</a></li><li>
 			<a href="#radio">RADIO</a></li><li>
-			<a href="#noticias">NOTICIAS</a><li>
+			<a href="noticias.php">NOTICIAS</a><li>
 			<a href="#nosotros">NOSOTROS</a></li><li>
 			<a href="#acciones">ACCIONES</a></li><li>
 			<a href="#galería">GALERÍA</a></li>
 		</ul>
 		<ul class="socials">
 			<li><a href=""><div class="s1"><img src="img/socials/fb.svg" alt="Facebook"></div></a></li><li>
-				<a href=""><div class="s2"><img src="img/socials/ig.svg" alt="Instagram"></div></a></li><li>
-				<a href=""><div class="s3"><img src="img/socials/tw.svg" alt="Twitter"></div></a></li><li>
+				<a href="https://www.instagram.com/EscenarioTlx/"><div class="s2"><img src="img/socials/ig.svg" alt="Instagram"></div></a></li><li>
+				<a href="https://twitter.com/EscenarioTlx"><div class="s3"><img src="img/socials/tw.svg" alt="Twitter"></div></a></li><li>
 				<a href=""><div class="s4"><img src="img/socials/rd1.svg" alt="Red Social"></div></a></li><li>
 				<a href=""><div class="s5"><img src="img/socials/yt.svg" alt="YouTube"></div></a></li><li>
 				<a href=""><div class="s6"><img src="img/socials/rd2.svg" alt="Red Social"></div></a></li><li>
@@ -57,7 +57,7 @@
 		<ul class="full-menu-container">
 			<li><a href="columnas.php">COLUMNAS</a></li><li>
 			<a href="#programas">PROGRAMAS</a></li><li>
-			<a href="#noticias">NOTICIAS</a></li><li>
+			<a href="noticias.php">NOTICIAS</a></li><li>
 			</li><li>
 			<a href="#nosotros">NOSOTROS</a></li><li>
 			<a href="#acciones">ACCIONES</a></li><li>

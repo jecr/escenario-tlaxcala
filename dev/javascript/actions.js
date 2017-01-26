@@ -14,7 +14,6 @@ $('#mob-soc').on('click', function(e){
 	$('.socials').toggle();
 });
 
-
 /**
 * Smooth Scrolling
 */

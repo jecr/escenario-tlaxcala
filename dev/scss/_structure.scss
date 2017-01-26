@@ -216,23 +216,9 @@ img {
 	width: 100%;
 }
 
-	.col-col {
-		.feat-title {
-			background: $light-blue;
-		}
-	}
-
-	.col-not {
-		.feat-title {
-			background: $lblue;
-		}
-	}
-
-	.col-acc {
-		.feat-title {
-			background: $lpurple;
-		}
-	}
+	.col-1 .feat-title { background: $light-blue; }
+	.col-2 .feat-title { background: $lblue; }
+	.col-3 .feat-title { background: $lpurple; }
 
 .feat-entry {
 	overflow: hidden;
@@ -425,12 +411,100 @@ img {
 }
 
 // Featured
-.colu-ac .feat-title { background: #C04B27; }
-.colu-th .feat-title { background: #4B3517; }
-.colu-ce .feat-title { background: #06562C; }
-.colu-pe .feat-title { background: #58595B; }
-.colu-so .feat-title { background: #3A1B66; }
+.colu-1 .feat-title { background: #C04B27; }
+.colu-2 .feat-title { background: #4B3517; }
+.colu-3 .feat-title { background: #06562C; }
+.colu-4 .feat-title { background: #58595B; }
+.colu-5 .feat-title { background: #3A1B66; }
 
 .main-content {
 	margin: 15px auto;
+}
+
+/** =========================
+		SECCIÓN: ENTRADA
+=============================*/
+.entrada header {
+	background: #fff;
+	box-sizing: border-box;
+	padding: 5px 0 1px 0;
+	img, h1, h3 {
+		display: inline-block;
+	}
+	img {
+		width: 40px;
+		position: absolute;
+		margin-top: 4px;
+	}
+	h1, h3 {
+		font-weight: 300;
+		margin: 0 0 0 40px;
+		box-sizing: border-box;
+	}
+	h1 {
+		font-size: 1em;
+		font-family: $BigNoodleTitling;
+		border-bottom: 1px dotted #444;
+	}
+	h3 {
+		font-size: .9em;
+	}
+	.entrada-name {
+		position: relative;
+		margin-bottom: 15px;
+	}
+	.entrada-recientes, .entrada-deco-top {
+		display: none;
+	}
+}
+
+.entrada picture img {
+	width: 100%;
+}
+
+.entrada-texto {
+	background: #fff;
+	box-sizing: border-box;
+	padding: 5px 10px;
+	h2 {
+		margin: 5px 0 0 0;
+		font-weight: 100;
+	}
+}
+
+.entrada-deco-bottom {
+	text-align: center;
+	margin: 10px 0;
+	img {
+		width: 10px;
+		display: inline-block;
+	}
+	span {
+		margin: 0 10px;
+		font-family: $BigNoodleTitling;
+		color: #C04B27;
+	}
+}
+
+.entrada-comentarios {
+	background: #fff;
+	box-sizing: border-box;
+	padding: 5px 10px;
+	font-size: 1.2em;
+	span {
+		display: block;
+		width: 100%;
+		border-bottom: 1px dotted #444;
+		font-size: 1.3em;
+		font-weight: 600;
+	}
+	.fa-heart {
+		color: red;
+	}
+	.fa-facebook-square {
+		color: $main-blue;
+	}
+	.fa-twitter-square {
+		color: $light-blue;
+	}
 }
